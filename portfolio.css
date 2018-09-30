@@ -1,0 +1,16 @@
+body {
+    color: indigo;
+    background-color: lightblue;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    font-size: 30px;
+}
+
