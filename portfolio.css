@@ -2,6 +2,11 @@ body {
     text-align: center;
 }
 
+h1 {
+    display: inline;
+    display: inline;
+}
+
 ul {
     /* list-style-type: none; */
     margin: 0;
@@ -15,6 +20,18 @@ li {
 
 #navlink {
    margin: 30px;
-    font-size: 30px;
+   font-size: 30px;
 }
 
+.intro {
+    font-size: 30px;
+    display: block;
+}
+
+ol li{
+    list-style-type: none;
+  }
+
+  footer {
+      font-size: 30px;
+  }
