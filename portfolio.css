@@ -15,7 +15,9 @@ ul {
 li {
     font-size: 30px;
 }
-
+table {
+    margin: 0px auto;
+}
 
 #navlink {
    margin: 30px;
@@ -33,4 +35,12 @@ li {
 
   footer {
       font-size: 30px;
+  }
+
+  #_projecttable {
+
+  }
+
+  td {
+      
   }
