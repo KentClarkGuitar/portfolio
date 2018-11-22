@@ -11,6 +11,7 @@ body {
 .logo {
     color: hsl(180, 25%, 50%);
 }
+
 #headshot {
     border: 12px solid rgb(218,165,32);
     height: 200px;
@@ -20,6 +21,7 @@ body {
 nav {
     color: black;
     text: white;
+    font-family: monospace;
 }
 
 h1 {
@@ -37,6 +39,15 @@ li {
 }
 table {
     margin: 0px auto;
+}
+
+#_projectstable {
+    border: maroon 10px solid;
+    font-family: monospace;
+}
+#_projectstable th {
+    border: maroon 10px solid;
+    font-family: monospace;
 }
 
 #navlink {
@@ -63,6 +74,9 @@ table {
 
   td {
       
+  }
+  .projectsheader {
+      font-family: monospace;
   }
 
 
@@ -97,4 +111,9 @@ nav {
   /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
   .sticky + .content {
     padding-top: 60px;
+  }
+
+  #contactkent {
+      font-family: monospace;
+
   }
