@@ -7,6 +7,7 @@ body {
 }
 .welcome {
     border: 10px solid blue;
+    font-size: 40px;
 }
 .logo {
     color: hsl(180, 25%, 50%);
@@ -116,4 +117,9 @@ nav {
   #contactkent {
       font-family: monospace;
 
+  }
+
+  /* beach gradient */
+  .beachgradient {
+    background: rgba(147,206,222,1);
   }
