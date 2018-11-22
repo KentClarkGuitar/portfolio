@@ -1,6 +1,12 @@
 body {
     text-align: center;
 }
+.welcome {
+    border: 10px solid blue;
+}
+.logo {
+    color: hsl(180, 25%, 50%);
+}
 #headshot {
     height: 600px;
     width: 400px;
