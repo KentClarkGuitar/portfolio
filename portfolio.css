@@ -61,6 +61,14 @@ table {
     display: block;
 }
 
+#emailkent {
+    
+}
+
+#emailkent:hover {
+     color: purple;
+}
+
 /* ol li{
     list-style-type: none;
   }  */
@@ -77,6 +85,7 @@ table {
       
   }
   .projectsheader {
+      float: left;
       font-family: monospace;
   }
 
@@ -122,4 +131,8 @@ nav {
   /* beach gradient */
   .beachgradient {
     background: rgba(147,206,222,1);
+  }
+
+  .intro {
+      text-align: left;
   }
