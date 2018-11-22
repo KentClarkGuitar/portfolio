@@ -1,5 +1,9 @@
 body {
     text-align: center;
+    font: monospace;
+}
+.intro {
+    font-family: monospace;
 }
 .welcome {
     border: 10px solid blue;
@@ -8,8 +12,10 @@ body {
     color: hsl(180, 25%, 50%);
 }
 #headshot {
-    height: 600px;
-    width: 400px;
+    border: 12px solid rgb(218,165,32);
+    height: 200px;
+    width: 150px;
+    float: right;
 }
 nav {
     color: black;
@@ -18,7 +24,7 @@ nav {
 
 h1 {
     display: inline;
-    display: inline;
+    font-family: monospace;    
 }
 
 ul {
